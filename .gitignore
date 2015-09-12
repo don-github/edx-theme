@@ -1,0 +1,10 @@
+### IntelliJ ###
+/.idea
+*.iml
+
+### Eclipse ###
+/.settings
+/.project
+
+### Sass ###
+.sass-cache/
