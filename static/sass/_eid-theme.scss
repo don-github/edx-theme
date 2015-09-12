@@ -226,6 +226,10 @@ html {
     }
 }
 
+header.global h1.logo {
+    margin-top: -10px !important; // Pull the logo up a bit to align with nav links
+}
+
 //-----------------
 // Footer Styling
 //-----------------
